@@ -1,0 +1,6 @@
+praw
+keyring
+pandas
+numpy
+# optional, only for the --claude classifier:
+# anthropic
